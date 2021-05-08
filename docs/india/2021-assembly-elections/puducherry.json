@@ -1,0 +1,3048 @@
+{
+  "stateId": "U07",
+  "stateName": "Puducherry",
+  "constituencies": [
+    {
+      "constituencyNumber": 19,
+      "constituencyName": "ARIANKUPPAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0719.htm?ac\u003d19",
+      "candidates": [
+        {
+          "name": "R. BASKAR @ DATCHANAMOURTTY",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "All India N.R. Congress",
+          "evmVotes": 17439,
+          "postalVotes": 419,
+          "totalVotes": 17858
+        },
+        {
+          "name": "T. DJEAMOURTHY",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "Indian National Congress",
+          "evmVotes": 11209,
+          "postalVotes": 231,
+          "totalVotes": 11440
+        },
+        {
+          "name": "V INDUMATHY",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 52,
+          "postalVotes": 0,
+          "totalVotes": 52
+        },
+        {
+          "name": "SUNDARAVADIVELU",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1086,
+          "postalVotes": 8,
+          "totalVotes": 1094
+        },
+        {
+          "name": "A MOHAMAD KASSIM",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "SOCIAL DEMOCRATIC PARTY OF INDIA",
+          "evmVotes": 67,
+          "postalVotes": 1,
+          "totalVotes": 68
+        },
+        {
+          "name": "V RUTHRAKUMARAN",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 1026,
+          "postalVotes": 29,
+          "totalVotes": 1055
+        },
+        {
+          "name": "LOURDUSAMY",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 53,
+          "postalVotes": 2,
+          "totalVotes": 55
+        },
+        {
+          "name": "R KARTHICK",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "Independent",
+          "evmVotes": 46,
+          "postalVotes": 1,
+          "totalVotes": 47
+        },
+        {
+          "name": "S KUMARAVELU",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "Independent",
+          "evmVotes": 818,
+          "postalVotes": 5,
+          "totalVotes": 823
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "ARIANKUPPAM",
+          "party": "None of the Above",
+          "evmVotes": 374,
+          "postalVotes": 8,
+          "totalVotes": 382
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 23,
+      "constituencyName": "BAHOUR",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0723.htm?ac\u003d23",
+      "candidates": [
+        {
+          "name": "R SENTHILKUMAR",
+          "constituencyName": "BAHOUR",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 11589,
+          "postalVotes": 200,
+          "totalVotes": 11789
+        },
+        {
+          "name": "N DHANAVELOU",
+          "constituencyName": "BAHOUR",
+          "party": "All India N.R. Congress",
+          "evmVotes": 11311,
+          "postalVotes": 267,
+          "totalVotes": 11578
+        },
+        {
+          "name": "S GNANAPRAGASH",
+          "constituencyName": "BAHOUR",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 443,
+          "postalVotes": 6,
+          "totalVotes": 449
+        },
+        {
+          "name": "A THIYAGU",
+          "constituencyName": "BAHOUR",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 14,
+          "postalVotes": 0,
+          "totalVotes": 14
+        },
+        {
+          "name": "C DINESH",
+          "constituencyName": "BAHOUR",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 125,
+          "postalVotes": 1,
+          "totalVotes": 126
+        },
+        {
+          "name": "S BASKARAN",
+          "constituencyName": "BAHOUR",
+          "party": "Puducherry Development  Party",
+          "evmVotes": 19,
+          "postalVotes": 1,
+          "totalVotes": 20
+        },
+        {
+          "name": "P VELMURUGAN",
+          "constituencyName": "BAHOUR",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 1390,
+          "postalVotes": 18,
+          "totalVotes": 1408
+        },
+        {
+          "name": "P VELU",
+          "constituencyName": "BAHOUR",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 79,
+          "postalVotes": 4,
+          "totalVotes": 83
+        },
+        {
+          "name": "T PALANISAMY",
+          "constituencyName": "BAHOUR",
+          "party": "Independent",
+          "evmVotes": 60,
+          "postalVotes": 1,
+          "totalVotes": 61
+        },
+        {
+          "name": "N PONNAMMAL",
+          "constituencyName": "BAHOUR",
+          "party": "Independent",
+          "evmVotes": 72,
+          "postalVotes": 2,
+          "totalVotes": 74
+        },
+        {
+          "name": "A MURUGAN",
+          "constituencyName": "BAHOUR",
+          "party": "Independent",
+          "evmVotes": 25,
+          "postalVotes": 1,
+          "totalVotes": 26
+        },
+        {
+          "name": "RAMALINGAM V",
+          "constituencyName": "BAHOUR",
+          "party": "Independent",
+          "evmVotes": 62,
+          "postalVotes": 2,
+          "totalVotes": 64
+        },
+        {
+          "name": "V RUTHIRAMOORTHY",
+          "constituencyName": "BAHOUR",
+          "party": "Independent",
+          "evmVotes": 461,
+          "postalVotes": 9,
+          "totalVotes": 470
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "BAHOUR",
+          "party": "None of the Above",
+          "evmVotes": 293,
+          "postalVotes": 1,
+          "totalVotes": 294
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 21,
+      "constituencyName": "EMBALAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0721.htm?ac\u003d21",
+      "candidates": [
+        {
+          "name": "D. ARVINDHAN",
+          "constituencyName": "EMBALAM",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 89,
+          "postalVotes": 1,
+          "totalVotes": 90
+        },
+        {
+          "name": "M CANDASSAMY",
+          "constituencyName": "EMBALAM",
+          "party": "Indian National Congress",
+          "evmVotes": 13172,
+          "postalVotes": 212,
+          "totalVotes": 13384
+        },
+        {
+          "name": "U LAKSHMIKANDHAN",
+          "constituencyName": "EMBALAM",
+          "party": "All India N.R. Congress",
+          "evmVotes": 15371,
+          "postalVotes": 253,
+          "totalVotes": 15624
+        },
+        {
+          "name": "N SUTHA",
+          "constituencyName": "EMBALAM",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 583,
+          "postalVotes": 7,
+          "totalVotes": 590
+        },
+        {
+          "name": "N SOMANATHAN",
+          "constituencyName": "EMBALAM",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 608,
+          "postalVotes": 10,
+          "totalVotes": 618
+        },
+        {
+          "name": "P. VAITHILINGAM",
+          "constituencyName": "EMBALAM",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 23,
+          "postalVotes": 0,
+          "totalVotes": 23
+        },
+        {
+          "name": "S. STEEBAN",
+          "constituencyName": "EMBALAM",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 120,
+          "postalVotes": 0,
+          "totalVotes": 120
+        },
+        {
+          "name": "A MURUGAIYAN",
+          "constituencyName": "EMBALAM",
+          "party": "Independent",
+          "evmVotes": 79,
+          "postalVotes": 2,
+          "totalVotes": 81
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "EMBALAM",
+          "party": "None of the Above",
+          "evmVotes": 189,
+          "postalVotes": 4,
+          "totalVotes": 193
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 8,
+      "constituencyName": "INDIRA NAGAR",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU078.htm?ac\u003d8",
+      "candidates": [
+        {
+          "name": "V. AROUMOUGAME @ AKD",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "All India N.R. Congress",
+          "evmVotes": 21223,
+          "postalVotes": 618,
+          "totalVotes": 21841
+        },
+        {
+          "name": "M. Kannan",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "Indian National Congress",
+          "evmVotes": 3239,
+          "postalVotes": 71,
+          "totalVotes": 3310
+        },
+        {
+          "name": "K. Ezhumalai",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 153,
+          "postalVotes": 3,
+          "totalVotes": 156
+        },
+        {
+          "name": "D. Ejoumale",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 147,
+          "postalVotes": 5,
+          "totalVotes": 152
+        },
+        {
+          "name": "P. SAKTHIVEL",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 1199,
+          "postalVotes": 19,
+          "totalVotes": 1218
+        },
+        {
+          "name": "T. Devika",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1758,
+          "postalVotes": 16,
+          "totalVotes": 1774
+        },
+        {
+          "name": "D. Mohan",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 81,
+          "postalVotes": 2,
+          "totalVotes": 83
+        },
+        {
+          "name": "S. Karthigayan",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "Independent",
+          "evmVotes": 109,
+          "postalVotes": 0,
+          "totalVotes": 109
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "INDIRA NAGAR",
+          "party": "None of the Above",
+          "evmVotes": 560,
+          "postalVotes": 9,
+          "totalVotes": 569
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 7,
+      "constituencyName": "KADIRGAMAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU077.htm?ac\u003d7",
+      "candidates": [
+        {
+          "name": "P. Selvanadane",
+          "constituencyName": "KADIRGAMAM",
+          "party": "Indian National Congress",
+          "evmVotes": 5409,
+          "postalVotes": 120,
+          "totalVotes": 5529
+        },
+        {
+          "name": "K.S.P @ S. RAMESH",
+          "constituencyName": "KADIRGAMAM",
+          "party": "All India N.R. Congress",
+          "evmVotes": 17359,
+          "postalVotes": 416,
+          "totalVotes": 17775
+        },
+        {
+          "name": "S. Ganesan",
+          "constituencyName": "KADIRGAMAM",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 181,
+          "postalVotes": 3,
+          "totalVotes": 184
+        },
+        {
+          "name": "S. Sathiyavel",
+          "constituencyName": "KADIRGAMAM",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 148,
+          "postalVotes": 2,
+          "totalVotes": 150
+        },
+        {
+          "name": "Subasri",
+          "constituencyName": "KADIRGAMAM",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 2227,
+          "postalVotes": 39,
+          "totalVotes": 2266
+        },
+        {
+          "name": "S. Motcharajan",
+          "constituencyName": "KADIRGAMAM",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 220,
+          "postalVotes": 1,
+          "totalVotes": 221
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "KADIRGAMAM",
+          "party": "None of the Above",
+          "evmVotes": 859,
+          "postalVotes": 21,
+          "totalVotes": 880
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 12,
+      "constituencyName": "KALAPET",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0712.htm?ac\u003d12",
+      "candidates": [
+        {
+          "name": "P.M.L. KALYANASUNDARAM",
+          "constituencyName": "KALAPET",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 13052,
+          "postalVotes": 225,
+          "totalVotes": 13277
+        },
+        {
+          "name": "S. MOUTTOUVEL",
+          "constituencyName": "KALAPET",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 3670,
+          "postalVotes": 99,
+          "totalVotes": 3769
+        },
+        {
+          "name": "P. KALIAMURTHY",
+          "constituencyName": "KALAPET",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 37,
+          "postalVotes": 2,
+          "totalVotes": 39
+        },
+        {
+          "name": "K. KAMARAJ",
+          "constituencyName": "KALAPET",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1296,
+          "postalVotes": 25,
+          "totalVotes": 1321
+        },
+        {
+          "name": "R. CHANDRAMOHAN",
+          "constituencyName": "KALAPET",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 673,
+          "postalVotes": 12,
+          "totalVotes": 685
+        },
+        {
+          "name": "S. HARIHARAN",
+          "constituencyName": "KALAPET",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 156,
+          "postalVotes": 1,
+          "totalVotes": 157
+        },
+        {
+          "name": "C. ASOKUMAR @ RAJKUMAR",
+          "constituencyName": "KALAPET",
+          "party": "Independent",
+          "evmVotes": 96,
+          "postalVotes": 1,
+          "totalVotes": 97
+        },
+        {
+          "name": "L. SUBBULAKSHMI",
+          "constituencyName": "KALAPET",
+          "party": "Independent",
+          "evmVotes": 31,
+          "postalVotes": 0,
+          "totalVotes": 31
+        },
+        {
+          "name": "BALASOUBREMANIANE. A",
+          "constituencyName": "KALAPET",
+          "party": "Independent",
+          "evmVotes": 36,
+          "postalVotes": 0,
+          "totalVotes": 36
+        },
+        {
+          "name": "A. SENTHIL @ RAMESH",
+          "constituencyName": "KALAPET",
+          "party": "Independent",
+          "evmVotes": 9652,
+          "postalVotes": 117,
+          "totalVotes": 9769
+        },
+        {
+          "name": "E. VIGNESH",
+          "constituencyName": "KALAPET",
+          "party": "Independent",
+          "evmVotes": 63,
+          "postalVotes": 0,
+          "totalVotes": 63
+        },
+        {
+          "name": "S. VENGADESSAPEROUMAL",
+          "constituencyName": "KALAPET",
+          "party": "Independent",
+          "evmVotes": 54,
+          "postalVotes": 0,
+          "totalVotes": 54
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "KALAPET",
+          "party": "None of the Above",
+          "evmVotes": 441,
+          "postalVotes": 12,
+          "totalVotes": 453
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 10,
+      "constituencyName": "KAMARAJ NAGAR",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0710.htm?ac\u003d10",
+      "candidates": [
+        {
+          "name": "A. JOHNKUMAR",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 16303,
+          "postalVotes": 384,
+          "totalVotes": 16687
+        },
+        {
+          "name": "M.O.H.F. SHAJAHAN",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Indian National Congress",
+          "evmVotes": 9208,
+          "postalVotes": 250,
+          "totalVotes": 9458
+        },
+        {
+          "name": "N. NADARAJAN @ SELVA",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 117,
+          "postalVotes": 2,
+          "totalVotes": 119
+        },
+        {
+          "name": "L. MUNISAMY",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 430,
+          "postalVotes": 16,
+          "totalVotes": 446
+        },
+        {
+          "name": "N. SHARMILA BEGUM",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1955,
+          "postalVotes": 27,
+          "totalVotes": 1982
+        },
+        {
+          "name": "ANANDARAJ",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Independent",
+          "evmVotes": 119,
+          "postalVotes": 2,
+          "totalVotes": 121
+        },
+        {
+          "name": "SIVA. ILANGO",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Independent",
+          "evmVotes": 81,
+          "postalVotes": 4,
+          "totalVotes": 85
+        },
+        {
+          "name": "S. SAGAYARAJ",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Independent",
+          "evmVotes": 70,
+          "postalVotes": 0,
+          "totalVotes": 70
+        },
+        {
+          "name": "VPR. SELVAM",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "Independent",
+          "evmVotes": 113,
+          "postalVotes": 2,
+          "totalVotes": 115
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "KAMARAJ NAGAR",
+          "party": "None of the Above",
+          "evmVotes": 636,
+          "postalVotes": 22,
+          "totalVotes": 658
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 26,
+      "constituencyName": "KARAIKAL NORTH",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0726.htm?ac\u003d26",
+      "candidates": [
+        {
+          "name": "A.V. SUBRAMANIAN",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Indian National Congress",
+          "evmVotes": 12215,
+          "postalVotes": 354,
+          "totalVotes": 12569
+        },
+        {
+          "name": "P.R.N. THIRUMURUGAN",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "All India N.R. Congress",
+          "evmVotes": 12362,
+          "postalVotes": 342,
+          "totalVotes": 12704
+        },
+        {
+          "name": "P. ARULANANDHAM",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 55,
+          "postalVotes": 0,
+          "totalVotes": 55
+        },
+        {
+          "name": "ANUSUYA",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1203,
+          "postalVotes": 11,
+          "totalVotes": 1214
+        },
+        {
+          "name": "K. SURESH",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 354,
+          "postalVotes": 5,
+          "totalVotes": 359
+        },
+        {
+          "name": "MOHAMED THAMEEM  KANI",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "SOCIAL DEMOCRATIC PARTY OF INDIA",
+          "evmVotes": 184,
+          "postalVotes": 1,
+          "totalVotes": 185
+        },
+        {
+          "name": "A. VELUSAMY",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 72,
+          "postalVotes": 0,
+          "totalVotes": 72
+        },
+        {
+          "name": "S. MURALI",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Independent",
+          "evmVotes": 85,
+          "postalVotes": 1,
+          "totalVotes": 86
+        },
+        {
+          "name": "B. RAJENDRAN",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Independent",
+          "evmVotes": 32,
+          "postalVotes": 0,
+          "totalVotes": 32
+        },
+        {
+          "name": "A. Vengadesh",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "Independent",
+          "evmVotes": 757,
+          "postalVotes": 9,
+          "totalVotes": 766
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "KARAIKAL NORTH",
+          "party": "None of the Above",
+          "evmVotes": 275,
+          "postalVotes": 7,
+          "totalVotes": 282
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 27,
+      "constituencyName": "KARAIKAL SOUTH",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0727.htm?ac\u003d27",
+      "candidates": [
+        {
+          "name": "K.A.U.ASSANA MARECAR",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "evmVotes": 5271,
+          "postalVotes": 96,
+          "totalVotes": 5367
+        },
+        {
+          "name": "A.M.H. NAZIM",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 17042,
+          "postalVotes": 359,
+          "totalVotes": 17401
+        },
+        {
+          "name": "A NEPOLIEAN",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 66,
+          "postalVotes": 1,
+          "totalVotes": 67
+        },
+        {
+          "name": "S MARIE ANTHUVAN",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 697,
+          "postalVotes": 2,
+          "totalVotes": 699
+        },
+        {
+          "name": "S MOHAMED SEEDIQUE",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 132,
+          "postalVotes": 0,
+          "totalVotes": 132
+        },
+        {
+          "name": "R JAGATEESAN",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 38,
+          "postalVotes": 1,
+          "totalVotes": 39
+        },
+        {
+          "name": "V MURUGAIA RAJENDIRAN",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "Independent",
+          "evmVotes": 93,
+          "postalVotes": 2,
+          "totalVotes": 95
+        },
+        {
+          "name": "A RAMPRASAD",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "Independent",
+          "evmVotes": 433,
+          "postalVotes": 2,
+          "totalVotes": 435
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "KARAIKAL SOUTH",
+          "party": "None of the Above",
+          "evmVotes": 217,
+          "postalVotes": 4,
+          "totalVotes": 221
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 11,
+      "constituencyName": "LAWSPET",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0711.htm?ac\u003d11",
+      "candidates": [
+        {
+          "name": "V. SAMINATHAN",
+          "constituencyName": "LAWSPET",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 8712,
+          "postalVotes": 179,
+          "totalVotes": 8891
+        },
+        {
+          "name": "M. VAITHIANATHAN",
+          "constituencyName": "LAWSPET",
+          "party": "Indian National Congress",
+          "evmVotes": 14281,
+          "postalVotes": 311,
+          "totalVotes": 14592
+        },
+        {
+          "name": "N. CAMATCHY",
+          "constituencyName": "LAWSPET",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 70,
+          "postalVotes": 1,
+          "totalVotes": 71
+        },
+        {
+          "name": "P.V. GOPI KANNAN",
+          "constituencyName": "LAWSPET",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 32,
+          "postalVotes": 1,
+          "totalVotes": 33
+        },
+        {
+          "name": "D. SATHIYAMOORTHY",
+          "constituencyName": "LAWSPET",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 812,
+          "postalVotes": 13,
+          "totalVotes": 825
+        },
+        {
+          "name": "NIRMAL SINGH",
+          "constituencyName": "LAWSPET",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1148,
+          "postalVotes": 20,
+          "totalVotes": 1168
+        },
+        {
+          "name": "A. BOOPALAN",
+          "constituencyName": "LAWSPET",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 72,
+          "postalVotes": 1,
+          "totalVotes": 73
+        },
+        {
+          "name": "ANNA DURAI. M",
+          "constituencyName": "LAWSPET",
+          "party": "Independent",
+          "evmVotes": 20,
+          "postalVotes": 0,
+          "totalVotes": 20
+        },
+        {
+          "name": "KARUNAKARAN",
+          "constituencyName": "LAWSPET",
+          "party": "Independent",
+          "evmVotes": 20,
+          "postalVotes": 0,
+          "totalVotes": 20
+        },
+        {
+          "name": "P. SENTHIL KUMAR",
+          "constituencyName": "LAWSPET",
+          "party": "Independent",
+          "evmVotes": 67,
+          "postalVotes": 2,
+          "totalVotes": 69
+        },
+        {
+          "name": "C. PANDIAN",
+          "constituencyName": "LAWSPET",
+          "party": "Independent",
+          "evmVotes": 59,
+          "postalVotes": 1,
+          "totalVotes": 60
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "LAWSPET",
+          "party": "None of the Above",
+          "evmVotes": 402,
+          "postalVotes": 21,
+          "totalVotes": 423
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 29,
+      "constituencyName": "MAHE",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0729.htm?ac\u003d29",
+      "candidates": [
+        {
+          "name": "ADV. V.P. ABDUL RAHMAN",
+          "constituencyName": "MAHE",
+          "party": "All India N.R. Congress",
+          "evmVotes": 3476,
+          "postalVotes": 56,
+          "totalVotes": 3532
+        },
+        {
+          "name": "RAMESH PARAMBATH",
+          "constituencyName": "MAHE",
+          "party": "Indian National Congress",
+          "evmVotes": 9460,
+          "postalVotes": 284,
+          "totalVotes": 9744
+        },
+        {
+          "name": "JANAKY TEACHER",
+          "constituencyName": "MAHE",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 83,
+          "postalVotes": 3,
+          "totalVotes": 86
+        },
+        {
+          "name": "C.K. UMMER MASTER",
+          "constituencyName": "MAHE",
+          "party": "SOCIAL DEMOCRATIC PARTY OF INDIA",
+          "evmVotes": 315,
+          "postalVotes": 4,
+          "totalVotes": 319
+        },
+        {
+          "name": "SARATH S UNNITHAN",
+          "constituencyName": "MAHE",
+          "party": "Independent",
+          "evmVotes": 57,
+          "postalVotes": 5,
+          "totalVotes": 62
+        },
+        {
+          "name": "N. HARIDASAN MASTER",
+          "constituencyName": "MAHE",
+          "party": "Independent",
+          "evmVotes": 9240,
+          "postalVotes": 204,
+          "totalVotes": 9444
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "MAHE",
+          "party": "None of the Above",
+          "evmVotes": 215,
+          "postalVotes": 6,
+          "totalVotes": 221
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 20,
+      "constituencyName": "MANAVELY",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0720.htm?ac\u003d20",
+      "candidates": [
+        {
+          "name": "R. K. R. ANANTHARAMAN",
+          "constituencyName": "MANAVELY",
+          "party": "Indian National Congress",
+          "evmVotes": 8929,
+          "postalVotes": 164,
+          "totalVotes": 9093
+        },
+        {
+          "name": "EMBALAM SELVAM @ R.SELVAM",
+          "constituencyName": "MANAVELY",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 16901,
+          "postalVotes": 324,
+          "totalVotes": 17225
+        },
+        {
+          "name": "THAMIZHARASAN",
+          "constituencyName": "MANAVELY",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 252,
+          "postalVotes": 8,
+          "totalVotes": 260
+        },
+        {
+          "name": "M S ELANGOVAN",
+          "constituencyName": "MANAVELY",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1539,
+          "postalVotes": 16,
+          "totalVotes": 1555
+        },
+        {
+          "name": "SUNDARAMBAL @ MALARVIZHI",
+          "constituencyName": "MANAVELY",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 412,
+          "postalVotes": 14,
+          "totalVotes": 426
+        },
+        {
+          "name": "V THIRUNAVUKARASU",
+          "constituencyName": "MANAVELY",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 84,
+          "postalVotes": 0,
+          "totalVotes": 84
+        },
+        {
+          "name": "J VEERASEKARAN",
+          "constituencyName": "MANAVELY",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 33,
+          "postalVotes": 2,
+          "totalVotes": 35
+        },
+        {
+          "name": "VEERAPUTHIRAN",
+          "constituencyName": "MANAVELY",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 62,
+          "postalVotes": 0,
+          "totalVotes": 62
+        },
+        {
+          "name": "T ANANDAN",
+          "constituencyName": "MANAVELY",
+          "party": "Independent",
+          "evmVotes": 595,
+          "postalVotes": 18,
+          "totalVotes": 613
+        },
+        {
+          "name": "DHORAPADIAR @ V.VELUSAMY",
+          "constituencyName": "MANAVELY",
+          "party": "Independent",
+          "evmVotes": 177,
+          "postalVotes": 1,
+          "totalVotes": 178
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "MANAVELY",
+          "party": "None of the Above",
+          "evmVotes": 394,
+          "postalVotes": 11,
+          "totalVotes": 405
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 4,
+      "constituencyName": "MANGALAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU074.htm?ac\u003d4",
+      "candidates": [
+        {
+          "name": "SUN. KUMARAVEL",
+          "constituencyName": "MANGALAM",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 14047,
+          "postalVotes": 174,
+          "totalVotes": 14221
+        },
+        {
+          "name": "A. Pathimaraj",
+          "constituencyName": "MANGALAM",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 104,
+          "postalVotes": 0,
+          "totalVotes": 104
+        },
+        {
+          "name": "DJEACOUMAR .C",
+          "constituencyName": "MANGALAM",
+          "party": "All India N.R. Congress",
+          "evmVotes": 16600,
+          "postalVotes": 372,
+          "totalVotes": 16972
+        },
+        {
+          "name": "M. Ganapathy",
+          "constituencyName": "MANGALAM",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 189,
+          "postalVotes": 6,
+          "totalVotes": 195
+        },
+        {
+          "name": "M. SUBRAMANI",
+          "constituencyName": "MANGALAM",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 278,
+          "postalVotes": 1,
+          "totalVotes": 279
+        },
+        {
+          "name": "S. Patchaiappan",
+          "constituencyName": "MANGALAM",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 84,
+          "postalVotes": 1,
+          "totalVotes": 85
+        },
+        {
+          "name": "B. BHARATHKALAI",
+          "constituencyName": "MANGALAM",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 829,
+          "postalVotes": 9,
+          "totalVotes": 838
+        },
+        {
+          "name": "Manavalan",
+          "constituencyName": "MANGALAM",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 17,
+          "postalVotes": 0,
+          "totalVotes": 17
+        },
+        {
+          "name": "A EGAMBARAM",
+          "constituencyName": "MANGALAM",
+          "party": "Independent",
+          "evmVotes": 37,
+          "postalVotes": 0,
+          "totalVotes": 37
+        },
+        {
+          "name": "P. CANNANE",
+          "constituencyName": "MANGALAM",
+          "party": "Independent",
+          "evmVotes": 205,
+          "postalVotes": 1,
+          "totalVotes": 206
+        },
+        {
+          "name": "M. Karthick",
+          "constituencyName": "MANGALAM",
+          "party": "Independent",
+          "evmVotes": 32,
+          "postalVotes": 0,
+          "totalVotes": 32
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "MANGALAM",
+          "party": "None of the Above",
+          "evmVotes": 364,
+          "postalVotes": 3,
+          "totalVotes": 367
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 1,
+      "constituencyName": "MANNADIPET",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU071.htm?ac\u003d1",
+      "candidates": [
+        {
+          "name": "A. KRISHNAN @ A.K. KUMAR",
+          "constituencyName": "MANNADIPET",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 12016,
+          "postalVotes": 173,
+          "totalVotes": 12189
+        },
+        {
+          "name": "K.K. MATHIVADHANAN, M.B.A., M.Phil.,",
+          "constituencyName": "MANNADIPET",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 99,
+          "postalVotes": 1,
+          "totalVotes": 100
+        },
+        {
+          "name": "A. NAMASSIVAYAM",
+          "constituencyName": "MANNADIPET",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 14692,
+          "postalVotes": 247,
+          "totalVotes": 14939
+        },
+        {
+          "name": "P. GOPALAKRISHNAN",
+          "constituencyName": "MANNADIPET",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 235,
+          "postalVotes": 3,
+          "totalVotes": 238
+        },
+        {
+          "name": "CHITRA",
+          "constituencyName": "MANNADIPET",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 480,
+          "postalVotes": 5,
+          "totalVotes": 485
+        },
+        {
+          "name": "C. DHANAVELU",
+          "constituencyName": "MANNADIPET",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 56,
+          "postalVotes": 1,
+          "totalVotes": 57
+        },
+        {
+          "name": "S. MANIKANDAN",
+          "constituencyName": "MANNADIPET",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 64,
+          "postalVotes": 0,
+          "totalVotes": 64
+        },
+        {
+          "name": "CHAMSOUDINE",
+          "constituencyName": "MANNADIPET",
+          "party": "Independent",
+          "evmVotes": 12,
+          "postalVotes": 0,
+          "totalVotes": 12
+        },
+        {
+          "name": "SIVAKUMAR. R.M",
+          "constituencyName": "MANNADIPET",
+          "party": "Independent",
+          "evmVotes": 8,
+          "postalVotes": 0,
+          "totalVotes": 8
+        },
+        {
+          "name": "SUBBURUMANI",
+          "constituencyName": "MANNADIPET",
+          "party": "Independent",
+          "evmVotes": 23,
+          "postalVotes": 2,
+          "totalVotes": 25
+        },
+        {
+          "name": "BRIGHTMOON V. MURUGANANDHAM",
+          "constituencyName": "MANNADIPET",
+          "party": "Independent",
+          "evmVotes": 42,
+          "postalVotes": 1,
+          "totalVotes": 43
+        },
+        {
+          "name": "VEERAPPAN",
+          "constituencyName": "MANNADIPET",
+          "party": "Independent",
+          "evmVotes": 175,
+          "postalVotes": 7,
+          "totalVotes": 182
+        },
+        {
+          "name": "S. JAYABALL ALIAS SENGENI",
+          "constituencyName": "MANNADIPET",
+          "party": "Independent",
+          "evmVotes": 55,
+          "postalVotes": 0,
+          "totalVotes": 55
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "MANNADIPET",
+          "party": "None of the Above",
+          "evmVotes": 428,
+          "postalVotes": 5,
+          "totalVotes": 433
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 18,
+      "constituencyName": "MUDALIARPET",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0718.htm?ac\u003d18",
+      "candidates": [
+        {
+          "name": "L. SAMBATH",
+          "constituencyName": "MUDALIARPET",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 14785,
+          "postalVotes": 366,
+          "totalVotes": 15151
+        },
+        {
+          "name": "A. BASKAR",
+          "constituencyName": "MUDALIARPET",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "evmVotes": 10747,
+          "postalVotes": 225,
+          "totalVotes": 10972
+        },
+        {
+          "name": "M. ARIKRISHNAN",
+          "constituencyName": "MUDALIARPET",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 1293,
+          "postalVotes": 28,
+          "totalVotes": 1321
+        },
+        {
+          "name": "M. MANIKANDAN",
+          "constituencyName": "MUDALIARPET",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 101,
+          "postalVotes": 4,
+          "totalVotes": 105
+        },
+        {
+          "name": "M. VELAVAN",
+          "constituencyName": "MUDALIARPET",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1274,
+          "postalVotes": 30,
+          "totalVotes": 1304
+        },
+        {
+          "name": "E. JEGANADHANE",
+          "constituencyName": "MUDALIARPET",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 26,
+          "postalVotes": 0,
+          "totalVotes": 26
+        },
+        {
+          "name": "K. KADIRVANAN",
+          "constituencyName": "MUDALIARPET",
+          "party": "Independent",
+          "evmVotes": 16,
+          "postalVotes": 1,
+          "totalVotes": 17
+        },
+        {
+          "name": "G. SANTHOSH KUMAR",
+          "constituencyName": "MUDALIARPET",
+          "party": "Independent",
+          "evmVotes": 13,
+          "postalVotes": 0,
+          "totalVotes": 13
+        },
+        {
+          "name": "E. THAMIZHARASAN",
+          "constituencyName": "MUDALIARPET",
+          "party": "Independent",
+          "evmVotes": 24,
+          "postalVotes": 0,
+          "totalVotes": 24
+        },
+        {
+          "name": "S. NATARAJAN",
+          "constituencyName": "MUDALIARPET",
+          "party": "Independent",
+          "evmVotes": 75,
+          "postalVotes": 3,
+          "totalVotes": 78
+        },
+        {
+          "name": "V. MANIKANDAN",
+          "constituencyName": "MUDALIARPET",
+          "party": "Independent",
+          "evmVotes": 18,
+          "postalVotes": 0,
+          "totalVotes": 18
+        },
+        {
+          "name": "S. VETRIVELU",
+          "constituencyName": "MUDALIARPET",
+          "party": "Independent",
+          "evmVotes": 54,
+          "postalVotes": 1,
+          "totalVotes": 55
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "MUDALIARPET",
+          "party": "None of the Above",
+          "evmVotes": 441,
+          "postalVotes": 11,
+          "totalVotes": 452
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 13,
+      "constituencyName": "MUTHIALPET",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0713.htm?ac\u003d13",
+      "candidates": [
+        {
+          "name": "R. SARAVANAN",
+          "constituencyName": "MUTHIALPET",
+          "party": "Communist Party of India  (Marxist)",
+          "evmVotes": 312,
+          "postalVotes": 9,
+          "totalVotes": 321
+        },
+        {
+          "name": "S. SENTHIL KUMARAN",
+          "constituencyName": "MUTHIALPET",
+          "party": "Indian National Congress",
+          "evmVotes": 4288,
+          "postalVotes": 114,
+          "totalVotes": 4402
+        },
+        {
+          "name": "BALAMURUGAN",
+          "constituencyName": "MUTHIALPET",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 82,
+          "postalVotes": 3,
+          "totalVotes": 85
+        },
+        {
+          "name": "VAIYAPURI MANIKANDAN",
+          "constituencyName": "MUTHIALPET",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "evmVotes": 7658,
+          "postalVotes": 186,
+          "totalVotes": 7844
+        },
+        {
+          "name": "A. ARUNAGIRI",
+          "constituencyName": "MUTHIALPET",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 85,
+          "postalVotes": 1,
+          "totalVotes": 86
+        },
+        {
+          "name": "K. SARAVANAN",
+          "constituencyName": "MUTHIALPET",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 728,
+          "postalVotes": 4,
+          "totalVotes": 732
+        },
+        {
+          "name": "M. FARITHA BEGUM",
+          "constituencyName": "MUTHIALPET",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 762,
+          "postalVotes": 16,
+          "totalVotes": 778
+        },
+        {
+          "name": "K. MURUGAN",
+          "constituencyName": "MUTHIALPET",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 51,
+          "postalVotes": 0,
+          "totalVotes": 51
+        },
+        {
+          "name": "S. KALA",
+          "constituencyName": "MUTHIALPET",
+          "party": "Independent",
+          "evmVotes": 34,
+          "postalVotes": 0,
+          "totalVotes": 34
+        },
+        {
+          "name": "J. PRAKASH KUMAR",
+          "constituencyName": "MUTHIALPET",
+          "party": "Independent",
+          "evmVotes": 8655,
+          "postalVotes": 123,
+          "totalVotes": 8778
+        },
+        {
+          "name": "G. MAGESH",
+          "constituencyName": "MUTHIALPET",
+          "party": "Independent",
+          "evmVotes": 48,
+          "postalVotes": 0,
+          "totalVotes": 48
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "MUTHIALPET",
+          "party": "None of the Above",
+          "evmVotes": 254,
+          "postalVotes": 10,
+          "totalVotes": 264
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 24,
+      "constituencyName": "NEDUNGADU",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0724.htm?ac\u003d24",
+      "candidates": [
+        {
+          "name": "A. ARULPRAKASH",
+          "constituencyName": "NEDUNGADU",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 84,
+          "postalVotes": 0,
+          "totalVotes": 84
+        },
+        {
+          "name": "CHANDIRA PRIYANGA",
+          "constituencyName": "NEDUNGADU",
+          "party": "All India N.R. Congress",
+          "evmVotes": 10410,
+          "postalVotes": 364,
+          "totalVotes": 10774
+        },
+        {
+          "name": "A. MARIMUTHU",
+          "constituencyName": "NEDUNGADU",
+          "party": "Indian National Congress",
+          "evmVotes": 8376,
+          "postalVotes": 184,
+          "totalVotes": 8560
+        },
+        {
+          "name": "V. GEETHA",
+          "constituencyName": "NEDUNGADU",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 779,
+          "postalVotes": 9,
+          "totalVotes": 788
+        },
+        {
+          "name": "A. GNANASEGARAN",
+          "constituencyName": "NEDUNGADU",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 243,
+          "postalVotes": 3,
+          "totalVotes": 246
+        },
+        {
+          "name": "T. RAJENDIRAN",
+          "constituencyName": "NEDUNGADU",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 147,
+          "postalVotes": 6,
+          "totalVotes": 153
+        },
+        {
+          "name": "T. NARASIMHAN",
+          "constituencyName": "NEDUNGADU",
+          "party": "Independent",
+          "evmVotes": 81,
+          "postalVotes": 0,
+          "totalVotes": 81
+        },
+        {
+          "name": "ANDOOR MATHI",
+          "constituencyName": "NEDUNGADU",
+          "party": "Independent",
+          "evmVotes": 248,
+          "postalVotes": 4,
+          "totalVotes": 252
+        },
+        {
+          "name": "DR. V. VIGNESWARAN",
+          "constituencyName": "NEDUNGADU",
+          "party": "Independent",
+          "evmVotes": 5535,
+          "postalVotes": 71,
+          "totalVotes": 5606
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "NEDUNGADU",
+          "party": "None of the Above",
+          "evmVotes": 251,
+          "postalVotes": 3,
+          "totalVotes": 254
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 17,
+      "constituencyName": "NELLITHOPE",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0717.htm?ac\u003d17",
+      "candidates": [
+        {
+          "name": "V. CARTIGUEYANE",
+          "constituencyName": "NELLITHOPE",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 11117,
+          "postalVotes": 144,
+          "totalVotes": 11261
+        },
+        {
+          "name": "RICHARDS JOHNKUMAR",
+          "constituencyName": "NELLITHOPE",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 11563,
+          "postalVotes": 194,
+          "totalVotes": 11757
+        },
+        {
+          "name": "D ARIVUMANI",
+          "constituencyName": "NELLITHOPE",
+          "party": "My India Party",
+          "evmVotes": 141,
+          "postalVotes": 4,
+          "totalVotes": 145
+        },
+        {
+          "name": "R ANIFA",
+          "constituencyName": "NELLITHOPE",
+          "party": "SOCIAL DEMOCRATIC PARTY OF INDIA",
+          "evmVotes": 139,
+          "postalVotes": 0,
+          "totalVotes": 139
+        },
+        {
+          "name": "R ARUMUGAM @ SARAVANAN",
+          "constituencyName": "NELLITHOPE",
+          "party": "Janata Dal  (United)",
+          "evmVotes": 16,
+          "postalVotes": 0,
+          "totalVotes": 16
+        },
+        {
+          "name": "S SASI KUMAR",
+          "constituencyName": "NELLITHOPE",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1506,
+          "postalVotes": 15,
+          "totalVotes": 1521
+        },
+        {
+          "name": "R PASUPATHY",
+          "constituencyName": "NELLITHOPE",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 18,
+          "postalVotes": 0,
+          "totalVotes": 18
+        },
+        {
+          "name": "APR @ A. POOVARAGAVAN",
+          "constituencyName": "NELLITHOPE",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 99,
+          "postalVotes": 2,
+          "totalVotes": 101
+        },
+        {
+          "name": "P MURUGESAN",
+          "constituencyName": "NELLITHOPE",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 1621,
+          "postalVotes": 38,
+          "totalVotes": 1659
+        },
+        {
+          "name": "D JENOVIA",
+          "constituencyName": "NELLITHOPE",
+          "party": "Puducherry Development  Party",
+          "evmVotes": 44,
+          "postalVotes": 2,
+          "totalVotes": 46
+        },
+        {
+          "name": "ARUN @ MURUGAN",
+          "constituencyName": "NELLITHOPE",
+          "party": "Independent",
+          "evmVotes": 140,
+          "postalVotes": 2,
+          "totalVotes": 142
+        },
+        {
+          "name": "E IRUDHAYARAJ",
+          "constituencyName": "NELLITHOPE",
+          "party": "Independent",
+          "evmVotes": 122,
+          "postalVotes": 2,
+          "totalVotes": 124
+        },
+        {
+          "name": "S ELUMALAI, M.A",
+          "constituencyName": "NELLITHOPE",
+          "party": "Independent",
+          "evmVotes": 82,
+          "postalVotes": 1,
+          "totalVotes": 83
+        },
+        {
+          "name": "P SHIVA SANTHOSH",
+          "constituencyName": "NELLITHOPE",
+          "party": "Independent",
+          "evmVotes": 11,
+          "postalVotes": 0,
+          "totalVotes": 11
+        },
+        {
+          "name": "N DELHI BABU",
+          "constituencyName": "NELLITHOPE",
+          "party": "Independent",
+          "evmVotes": 85,
+          "postalVotes": 0,
+          "totalVotes": 85
+        },
+        {
+          "name": "S PRITHIVIRAJAN",
+          "constituencyName": "NELLITHOPE",
+          "party": "Independent",
+          "evmVotes": 177,
+          "postalVotes": 1,
+          "totalVotes": 178
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "NELLITHOPE",
+          "party": "None of the Above",
+          "evmVotes": 527,
+          "postalVotes": 10,
+          "totalVotes": 537
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 28,
+      "constituencyName": "NERAVY-T.R.PATTINAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0728.htm?ac\u003d28",
+      "candidates": [
+        {
+          "name": "M.NAGATHIYAGARAJAN",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 14116,
+          "postalVotes": 380,
+          "totalVotes": 14496
+        },
+        {
+          "name": "V.M.C.S.MANOHAREN",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 8788,
+          "postalVotes": 197,
+          "totalVotes": 8985
+        },
+        {
+          "name": "A.ARULRAJU",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 55,
+          "postalVotes": 0,
+          "totalVotes": 55
+        },
+        {
+          "name": "S.SELLAMUTHU",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 35,
+          "postalVotes": 0,
+          "totalVotes": 35
+        },
+        {
+          "name": "BALADHANDAYUDHABANI.C",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 41,
+          "postalVotes": 4,
+          "totalVotes": 45
+        },
+        {
+          "name": "A MOHAMED YOUSUF",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 468,
+          "postalVotes": 3,
+          "totalVotes": 471
+        },
+        {
+          "name": "GEETHA ANANDAN",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Independent",
+          "evmVotes": 1474,
+          "postalVotes": 21,
+          "totalVotes": 1495
+        },
+        {
+          "name": "V. M. C. S RAJAGANAPATHY",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Independent",
+          "evmVotes": 96,
+          "postalVotes": 2,
+          "totalVotes": 98
+        },
+        {
+          "name": "S.SRIDHAR",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "Independent",
+          "evmVotes": 139,
+          "postalVotes": 1,
+          "totalVotes": 140
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "NERAVY-T.R.PATTINAM",
+          "party": "None of the Above",
+          "evmVotes": 177,
+          "postalVotes": 9,
+          "totalVotes": 186
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 22,
+      "constituencyName": "NETTAPAKKAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0722.htm?ac\u003d22",
+      "candidates": [
+        {
+          "name": "M PARANTHAMAN",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 130,
+          "postalVotes": 3,
+          "totalVotes": 133
+        },
+        {
+          "name": "P RAJAVELU",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "All India N.R. Congress",
+          "evmVotes": 15755,
+          "postalVotes": 223,
+          "totalVotes": 15978
+        },
+        {
+          "name": "V VIZEAVENY",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Indian National Congress",
+          "evmVotes": 9211,
+          "postalVotes": 129,
+          "totalVotes": 9340
+        },
+        {
+          "name": "T KALYANASUNDARAM",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Janata Dal  (United)",
+          "evmVotes": 81,
+          "postalVotes": 2,
+          "totalVotes": 83
+        },
+        {
+          "name": "D GOVURY",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 645,
+          "postalVotes": 4,
+          "totalVotes": 649
+        },
+        {
+          "name": "M SELVAM",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 249,
+          "postalVotes": 4,
+          "totalVotes": 253
+        },
+        {
+          "name": "B GNANAOLY",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 240,
+          "postalVotes": 1,
+          "totalVotes": 241
+        },
+        {
+          "name": "A VELU",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 89,
+          "postalVotes": 4,
+          "totalVotes": 93
+        },
+        {
+          "name": "C KRISHNAGOPAL",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Independent",
+          "evmVotes": 597,
+          "postalVotes": 2,
+          "totalVotes": 599
+        },
+        {
+          "name": "S THIRUNAVUKKARASU",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "Independent",
+          "evmVotes": 460,
+          "postalVotes": 10,
+          "totalVotes": 470
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "NETTAPAKKAM",
+          "party": "None of the Above",
+          "evmVotes": 276,
+          "postalVotes": 6,
+          "totalVotes": 282
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 16,
+      "constituencyName": "ORLEAMPETH",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0716.htm?ac\u003d16",
+      "candidates": [
+        {
+          "name": "OMSAKTHISEKAR",
+          "constituencyName": "ORLEAMPETH",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "evmVotes": 1743,
+          "postalVotes": 44,
+          "totalVotes": 1787
+        },
+        {
+          "name": "S. GOPAL",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 7367,
+          "postalVotes": 120,
+          "totalVotes": 7487
+        },
+        {
+          "name": "R. CADIRESSAN",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 49,
+          "postalVotes": 1,
+          "totalVotes": 50
+        },
+        {
+          "name": "KARUNANITHI",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 497,
+          "postalVotes": 10,
+          "totalVotes": 507
+        },
+        {
+          "name": "A. SIRAJ @ KANIMOHAMED",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 26,
+          "postalVotes": 0,
+          "totalVotes": 26
+        },
+        {
+          "name": "S. SAKTIVEL",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 363,
+          "postalVotes": 1,
+          "totalVotes": 364
+        },
+        {
+          "name": "K. PURUSHOTHAMAN",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 6,
+          "postalVotes": 0,
+          "totalVotes": 6
+        },
+        {
+          "name": "J. RAVI @ PURUSHOTHAMAN",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Puratchi Bharatham",
+          "evmVotes": 59,
+          "postalVotes": 1,
+          "totalVotes": 60
+        },
+        {
+          "name": "R. RAJA",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Independent",
+          "evmVotes": 14,
+          "postalVotes": 0,
+          "totalVotes": 14
+        },
+        {
+          "name": "G. GOPAL",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Independent",
+          "evmVotes": 4,
+          "postalVotes": 1,
+          "totalVotes": 5
+        },
+        {
+          "name": "P. GOPALAKRISHNAN",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Independent",
+          "evmVotes": 11,
+          "postalVotes": 0,
+          "totalVotes": 11
+        },
+        {
+          "name": "GOPALAKRISHNAN .M",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Independent",
+          "evmVotes": 10,
+          "postalVotes": 0,
+          "totalVotes": 10
+        },
+        {
+          "name": "M. SANKAR",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Independent",
+          "evmVotes": 56,
+          "postalVotes": 0,
+          "totalVotes": 56
+        },
+        {
+          "name": "G. NEHRU @ KUPPUSAMY",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Independent",
+          "evmVotes": 9410,
+          "postalVotes": 170,
+          "totalVotes": 9580
+        },
+        {
+          "name": "V. HARIHARANE",
+          "constituencyName": "ORLEAMPETH",
+          "party": "Independent",
+          "evmVotes": 111,
+          "postalVotes": 2,
+          "totalVotes": 113
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "ORLEAMPETH",
+          "party": "None of the Above",
+          "evmVotes": 177,
+          "postalVotes": 4,
+          "totalVotes": 181
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 15,
+      "constituencyName": "OUPALAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0715.htm?ac\u003d15",
+      "candidates": [
+        {
+          "name": "A. ANBALAGAN",
+          "constituencyName": "OUPALAM",
+          "party": "All India Anna Dravida Munnetra Kazhagam",
+          "evmVotes": 8501,
+          "postalVotes": 152,
+          "totalVotes": 8653
+        },
+        {
+          "name": "ANNIBAL KENNEDY",
+          "constituencyName": "OUPALAM",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 13227,
+          "postalVotes": 206,
+          "totalVotes": 13433
+        },
+        {
+          "name": "JAYAKUMAR",
+          "constituencyName": "OUPALAM",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 55,
+          "postalVotes": 1,
+          "totalVotes": 56
+        },
+        {
+          "name": "M. KILLIVALAVAN",
+          "constituencyName": "OUPALAM",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 10,
+          "postalVotes": 0,
+          "totalVotes": 10
+        },
+        {
+          "name": "V. SASIKUMAR",
+          "constituencyName": "OUPALAM",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 22,
+          "postalVotes": 2,
+          "totalVotes": 24
+        },
+        {
+          "name": "SANTHOSH KUMAR",
+          "constituencyName": "OUPALAM",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 621,
+          "postalVotes": 8,
+          "totalVotes": 629
+        },
+        {
+          "name": "V. DEVIPRIYA",
+          "constituencyName": "OUPALAM",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 559,
+          "postalVotes": 5,
+          "totalVotes": 564
+        },
+        {
+          "name": "P.M.BASKAR",
+          "constituencyName": "OUPALAM",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 43,
+          "postalVotes": 0,
+          "totalVotes": 43
+        },
+        {
+          "name": "MOHAMED SALEEM",
+          "constituencyName": "OUPALAM",
+          "party": "Independent",
+          "evmVotes": 24,
+          "postalVotes": 1,
+          "totalVotes": 25
+        },
+        {
+          "name": "K. REYAZ AHAMED",
+          "constituencyName": "OUPALAM",
+          "party": "Independent",
+          "evmVotes": 22,
+          "postalVotes": 1,
+          "totalVotes": 23
+        },
+        {
+          "name": "SAMIYAR @ VIJAYAKUMAR BASTE",
+          "constituencyName": "OUPALAM",
+          "party": "Independent",
+          "evmVotes": 37,
+          "postalVotes": 1,
+          "totalVotes": 38
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "OUPALAM",
+          "party": "None of the Above",
+          "evmVotes": 216,
+          "postalVotes": 3,
+          "totalVotes": 219
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 3,
+      "constituencyName": "OUSSUDU",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU073.htm?ac\u003d3",
+      "candidates": [
+        {
+          "name": "P. KARTHIKEYAN",
+          "constituencyName": "OUSSUDU",
+          "party": "Indian National Congress",
+          "evmVotes": 12145,
+          "postalVotes": 96,
+          "totalVotes": 12241
+        },
+        {
+          "name": "AK SAI J SARAVANAN KUMAR",
+          "constituencyName": "OUSSUDU",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 13903,
+          "postalVotes": 218,
+          "totalVotes": 14121
+        },
+        {
+          "name": "GEETHA PRIYA",
+          "constituencyName": "OUSSUDU",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 736,
+          "postalVotes": 4,
+          "totalVotes": 740
+        },
+        {
+          "name": "K. SANKAR",
+          "constituencyName": "OUSSUDU",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 291,
+          "postalVotes": 2,
+          "totalVotes": 293
+        },
+        {
+          "name": "R. BABOU",
+          "constituencyName": "OUSSUDU",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 77,
+          "postalVotes": 0,
+          "totalVotes": 77
+        },
+        {
+          "name": "M. RAMESH",
+          "constituencyName": "OUSSUDU",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 14,
+          "postalVotes": 0,
+          "totalVotes": 14
+        },
+        {
+          "name": "MUTHALU VENGADESAN",
+          "constituencyName": "OUSSUDU",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 489,
+          "postalVotes": 7,
+          "totalVotes": 496
+        },
+        {
+          "name": "ABIMANNAN",
+          "constituencyName": "OUSSUDU",
+          "party": "Independent",
+          "evmVotes": 20,
+          "postalVotes": 4,
+          "totalVotes": 24
+        },
+        {
+          "name": "N. AMBIGAPATHY",
+          "constituencyName": "OUSSUDU",
+          "party": "Independent",
+          "evmVotes": 314,
+          "postalVotes": 6,
+          "totalVotes": 320
+        },
+        {
+          "name": "S. SANJIV GANTHI",
+          "constituencyName": "OUSSUDU",
+          "party": "Independent",
+          "evmVotes": 46,
+          "postalVotes": 1,
+          "totalVotes": 47
+        },
+        {
+          "name": "A. MURALI",
+          "constituencyName": "OUSSUDU",
+          "party": "Independent",
+          "evmVotes": 164,
+          "postalVotes": 1,
+          "totalVotes": 165
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "OUSSUDU",
+          "party": "None of the Above",
+          "evmVotes": 406,
+          "postalVotes": 3,
+          "totalVotes": 409
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 6,
+      "constituencyName": "OZHUKARAI",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU076.htm?ac\u003d6",
+      "candidates": [
+        {
+          "name": "R. Sheeshapillai",
+          "constituencyName": "OZHUKARAI",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 87,
+          "postalVotes": 0,
+          "totalVotes": 87
+        },
+        {
+          "name": "N.G. PANNIR SELVAM",
+          "constituencyName": "OZHUKARAI",
+          "party": "All India N.R. Congress",
+          "evmVotes": 10775,
+          "postalVotes": 346,
+          "totalVotes": 11121
+        },
+        {
+          "name": "Angalane @ Deva Pozhilan",
+          "constituencyName": "OZHUKARAI",
+          "party": "Viduthalai Chiruthaigal Katchi",
+          "evmVotes": 5479,
+          "postalVotes": 154,
+          "totalVotes": 5633
+        },
+        {
+          "name": "EJOUMALE",
+          "constituencyName": "OZHUKARAI",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 144,
+          "postalVotes": 3,
+          "totalVotes": 147
+        },
+        {
+          "name": "S. CHITRAKALA",
+          "constituencyName": "OZHUKARAI",
+          "party": "Janata Dal  (United)",
+          "evmVotes": 22,
+          "postalVotes": 0,
+          "totalVotes": 22
+        },
+        {
+          "name": "V. THANGAMANI",
+          "constituencyName": "OZHUKARAI",
+          "party": "Puducherry Development  Party",
+          "evmVotes": 51,
+          "postalVotes": 1,
+          "totalVotes": 52
+        },
+        {
+          "name": "S. Datchanamoorthy",
+          "constituencyName": "OZHUKARAI",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 20,
+          "postalVotes": 0,
+          "totalVotes": 20
+        },
+        {
+          "name": "R. Pazhanivelan",
+          "constituencyName": "OZHUKARAI",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 1159,
+          "postalVotes": 26,
+          "totalVotes": 1185
+        },
+        {
+          "name": "S. PRIYA",
+          "constituencyName": "OZHUKARAI",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1144,
+          "postalVotes": 13,
+          "totalVotes": 1157
+        },
+        {
+          "name": "MOTHILAL .S",
+          "constituencyName": "OZHUKARAI",
+          "party": "Communist Party of India  (Marxist-Leninist)  (Liberation)",
+          "evmVotes": 154,
+          "postalVotes": 4,
+          "totalVotes": 158
+        },
+        {
+          "name": "Gilbert",
+          "constituencyName": "OZHUKARAI",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 72,
+          "postalVotes": 7,
+          "totalVotes": 79
+        },
+        {
+          "name": "A. Santhi",
+          "constituencyName": "OZHUKARAI",
+          "party": "Independent",
+          "evmVotes": 99,
+          "postalVotes": 1,
+          "totalVotes": 100
+        },
+        {
+          "name": "M. Sivasankar",
+          "constituencyName": "OZHUKARAI",
+          "party": "Independent",
+          "evmVotes": 11794,
+          "postalVotes": 146,
+          "totalVotes": 11940
+        },
+        {
+          "name": "Sivasankaran",
+          "constituencyName": "OZHUKARAI",
+          "party": "Independent",
+          "evmVotes": 279,
+          "postalVotes": 3,
+          "totalVotes": 282
+        },
+        {
+          "name": "A S Ramesh",
+          "constituencyName": "OZHUKARAI",
+          "party": "Independent",
+          "evmVotes": 95,
+          "postalVotes": 0,
+          "totalVotes": 95
+        },
+        {
+          "name": "N. JEEVANANDAM",
+          "constituencyName": "OZHUKARAI",
+          "party": "Independent",
+          "evmVotes": 183,
+          "postalVotes": 5,
+          "totalVotes": 188
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "OZHUKARAI",
+          "party": "None of the Above",
+          "evmVotes": 432,
+          "postalVotes": 12,
+          "totalVotes": 444
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 14,
+      "constituencyName": "RAJ BHAVAN",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0714.htm?ac\u003d14",
+      "candidates": [
+        {
+          "name": "S.P. SIVAKUMAR",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 6247,
+          "postalVotes": 117,
+          "totalVotes": 6364
+        },
+        {
+          "name": "K. LAKSHMINARAYANAN",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "All India N.R. Congress",
+          "evmVotes": 9919,
+          "postalVotes": 177,
+          "totalVotes": 10096
+        },
+        {
+          "name": "ANTHONY SHARMILA",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 964,
+          "postalVotes": 11,
+          "totalVotes": 975
+        },
+        {
+          "name": "G. SATHISHKUMAR",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 39,
+          "postalVotes": 0,
+          "totalVotes": 39
+        },
+        {
+          "name": "S. PARUVADHAVARDHNIE",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 1449,
+          "postalVotes": 13,
+          "totalVotes": 1462
+        },
+        {
+          "name": "M. SATHIYAN @ VIMALAN",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "Independent",
+          "evmVotes": 22,
+          "postalVotes": 0,
+          "totalVotes": 22
+        },
+        {
+          "name": "S.K. SUBRAMANIAN",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "Independent",
+          "evmVotes": 141,
+          "postalVotes": 3,
+          "totalVotes": 144
+        },
+        {
+          "name": "N. MOHAN",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "Independent",
+          "evmVotes": 61,
+          "postalVotes": 0,
+          "totalVotes": 61
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "RAJ BHAVAN",
+          "party": "None of the Above",
+          "evmVotes": 295,
+          "postalVotes": 8,
+          "totalVotes": 303
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 9,
+      "constituencyName": "THATTANCHAVADY",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU079.htm?ac\u003d9",
+      "candidates": [
+        {
+          "name": "K. SETHU @ SETHU SELVAM",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Communist Party of India",
+          "evmVotes": 7355,
+          "postalVotes": 167,
+          "totalVotes": 7522
+        },
+        {
+          "name": "N. Rangasamy",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "All India N.R. Congress",
+          "evmVotes": 12646,
+          "postalVotes": 332,
+          "totalVotes": 12978
+        },
+        {
+          "name": "R. Shanmugam",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 41,
+          "postalVotes": 1,
+          "totalVotes": 42
+        },
+        {
+          "name": "S.T. NARASSINGAM",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 101,
+          "postalVotes": 2,
+          "totalVotes": 103
+        },
+        {
+          "name": "D. Ramesh",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1167,
+          "postalVotes": 16,
+          "totalVotes": 1183
+        },
+        {
+          "name": "R. Rajendhiran",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 1013,
+          "postalVotes": 16,
+          "totalVotes": 1029
+        },
+        {
+          "name": "VIMALA SREE. B.",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 60,
+          "postalVotes": 1,
+          "totalVotes": 61
+        },
+        {
+          "name": "C. ANUSUYA",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Independent",
+          "evmVotes": 124,
+          "postalVotes": 4,
+          "totalVotes": 128
+        },
+        {
+          "name": "L. MANIKANDAN",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Independent",
+          "evmVotes": 46,
+          "postalVotes": 2,
+          "totalVotes": 48
+        },
+        {
+          "name": "K. MURUGAN",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "Independent",
+          "evmVotes": 52,
+          "postalVotes": 2,
+          "totalVotes": 54
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "THATTANCHAVADY",
+          "party": "None of the Above",
+          "evmVotes": 417,
+          "postalVotes": 21,
+          "totalVotes": 438
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 2,
+      "constituencyName": "THIRUBHUVANAI",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU072.htm?ac\u003d2",
+      "candidates": [
+        {
+          "name": "T. UDAYAKUMAR, MLIS",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 77,
+          "postalVotes": 3,
+          "totalVotes": 80
+        },
+        {
+          "name": "B. KOBIGA",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "All India N.R. Congress",
+          "evmVotes": 8084,
+          "postalVotes": 154,
+          "totalVotes": 8238
+        },
+        {
+          "name": "A. MUHILAN",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 7588,
+          "postalVotes": 56,
+          "totalVotes": 7644
+        },
+        {
+          "name": "Dr.K. SILAMBARASAN",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 229,
+          "postalVotes": 0,
+          "totalVotes": 229
+        },
+        {
+          "name": "V. SIVARAMAN",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 115,
+          "postalVotes": 2,
+          "totalVotes": 117
+        },
+        {
+          "name": "K. RANJIT",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 584,
+          "postalVotes": 4,
+          "totalVotes": 588
+        },
+        {
+          "name": "DURAI RAMESH",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 481,
+          "postalVotes": 1,
+          "totalVotes": 482
+        },
+        {
+          "name": "T. VINAYAGAMOORTHY",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 118,
+          "postalVotes": 1,
+          "totalVotes": 119
+        },
+        {
+          "name": "P. ANGALANE",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Independent",
+          "evmVotes": 10473,
+          "postalVotes": 124,
+          "totalVotes": 10597
+        },
+        {
+          "name": "S.T. PARAMASIVAM @ CALE",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Independent",
+          "evmVotes": 180,
+          "postalVotes": 2,
+          "totalVotes": 182
+        },
+        {
+          "name": "M. SHANTHI",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Independent",
+          "evmVotes": 78,
+          "postalVotes": 7,
+          "totalVotes": 85
+        },
+        {
+          "name": "S. NADARAJAN",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Independent",
+          "evmVotes": 83,
+          "postalVotes": 1,
+          "totalVotes": 84
+        },
+        {
+          "name": "M. MANIVANNAN",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "Independent",
+          "evmVotes": 79,
+          "postalVotes": 0,
+          "totalVotes": 79
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "THIRUBHUVANAI",
+          "party": "None of the Above",
+          "evmVotes": 280,
+          "postalVotes": 4,
+          "totalVotes": 284
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 25,
+      "constituencyName": "THIRUNALLAR",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0725.htm?ac\u003d25",
+      "candidates": [
+        {
+          "name": "R. KAMALAKKANNAN",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Indian National Congress",
+          "evmVotes": 7486,
+          "postalVotes": 245,
+          "totalVotes": 7731
+        },
+        {
+          "name": "S. RAJASEKARAN",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Bharatiya Janata Party",
+          "evmVotes": 8274,
+          "postalVotes": 142,
+          "totalVotes": 8416
+        },
+        {
+          "name": "K. GURU @ SINTHA",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 125,
+          "postalVotes": 2,
+          "totalVotes": 127
+        },
+        {
+          "name": "M. SIKKANTHAR  BATSHA",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 344,
+          "postalVotes": 3,
+          "totalVotes": 347
+        },
+        {
+          "name": "DHARPARANIYAM",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 58,
+          "postalVotes": 0,
+          "totalVotes": 58
+        },
+        {
+          "name": "PR. SIVA",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Independent",
+          "evmVotes": 9551,
+          "postalVotes": 245,
+          "totalVotes": 9796
+        },
+        {
+          "name": "P. SIMONRAJ",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Independent",
+          "evmVotes": 66,
+          "postalVotes": 1,
+          "totalVotes": 67
+        },
+        {
+          "name": "M. MARIAPPANE",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Independent",
+          "evmVotes": 84,
+          "postalVotes": 4,
+          "totalVotes": 88
+        },
+        {
+          "name": "S. VINOTH",
+          "constituencyName": "THIRUNALLAR",
+          "party": "Independent",
+          "evmVotes": 71,
+          "postalVotes": 0,
+          "totalVotes": 71
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "THIRUNALLAR",
+          "party": "None of the Above",
+          "evmVotes": 168,
+          "postalVotes": 5,
+          "totalVotes": 173
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 5,
+      "constituencyName": "VILLIANUR",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU075.htm?ac\u003d5",
+      "candidates": [
+        {
+          "name": "R. SIVA",
+          "constituencyName": "VILLIANUR",
+          "party": "Dravida Munnetra Kazhagam",
+          "evmVotes": 19316,
+          "postalVotes": 337,
+          "totalVotes": 19653
+        },
+        {
+          "name": "S.V. SUGUMARAN",
+          "constituencyName": "VILLIANUR",
+          "party": "All India N.R. Congress",
+          "evmVotes": 12370,
+          "postalVotes": 333,
+          "totalVotes": 12703
+        },
+        {
+          "name": "R. ARUMUGAM @ SARAVANAN",
+          "constituencyName": "VILLIANUR",
+          "party": "Janata Dal  (United)",
+          "evmVotes": 20,
+          "postalVotes": 0,
+          "totalVotes": 20
+        },
+        {
+          "name": "KUMARAVEL",
+          "constituencyName": "VILLIANUR",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 160,
+          "postalVotes": 2,
+          "totalVotes": 162
+        },
+        {
+          "name": "THIAGU",
+          "constituencyName": "VILLIANUR",
+          "party": "Indiya Jananayaka Katchi",
+          "evmVotes": 16,
+          "postalVotes": 1,
+          "totalVotes": 17
+        },
+        {
+          "name": "A. FAZIL",
+          "constituencyName": "VILLIANUR",
+          "party": "Desiya Murpokku Dravida Kazhagam",
+          "evmVotes": 43,
+          "postalVotes": 0,
+          "totalVotes": 43
+        },
+        {
+          "name": "A. BANUMATHI",
+          "constituencyName": "VILLIANUR",
+          "party": "Makkal Needhi Maiam",
+          "evmVotes": 600,
+          "postalVotes": 9,
+          "totalVotes": 609
+        },
+        {
+          "name": "PRAVEENA",
+          "constituencyName": "VILLIANUR",
+          "party": "Naam Tamilar Katchi",
+          "evmVotes": 1172,
+          "postalVotes": 10,
+          "totalVotes": 1182
+        },
+        {
+          "name": "R. RAMPRASATH",
+          "constituencyName": "VILLIANUR",
+          "party": "Puducherry Development  Party",
+          "evmVotes": 77,
+          "postalVotes": 4,
+          "totalVotes": 81
+        },
+        {
+          "name": "C. GUEDJENDIRANE",
+          "constituencyName": "VILLIANUR",
+          "party": "Independent",
+          "evmVotes": 27,
+          "postalVotes": 3,
+          "totalVotes": 30
+        },
+        {
+          "name": "S. SHANMUGASUNDARAM",
+          "constituencyName": "VILLIANUR",
+          "party": "Independent",
+          "evmVotes": 67,
+          "postalVotes": 1,
+          "totalVotes": 68
+        },
+        {
+          "name": "P. THANAMOUTTOU",
+          "constituencyName": "VILLIANUR",
+          "party": "Independent",
+          "evmVotes": 73,
+          "postalVotes": 0,
+          "totalVotes": 73
+        },
+        {
+          "name": "A. MATHIVANAN",
+          "constituencyName": "VILLIANUR",
+          "party": "Independent",
+          "evmVotes": 19,
+          "postalVotes": 1,
+          "totalVotes": 20
+        },
+        {
+          "name": "V. MARAN",
+          "constituencyName": "VILLIANUR",
+          "party": "Independent",
+          "evmVotes": 35,
+          "postalVotes": 0,
+          "totalVotes": 35
+        },
+        {
+          "name": "N. DJEAMOURTHY",
+          "constituencyName": "VILLIANUR",
+          "party": "Independent",
+          "evmVotes": 92,
+          "postalVotes": 0,
+          "totalVotes": 92
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "VILLIANUR",
+          "party": "None of the Above",
+          "evmVotes": 470,
+          "postalVotes": 8,
+          "totalVotes": 478
+        }
+      ]
+    },
+    {
+      "constituencyNumber": 30,
+      "constituencyName": "YANAM",
+      "constituencyUrl": "https://results.eci.gov.in/Result2021/ConstituencywiseU0730.htm?ac\u003d30",
+      "candidates": [
+        {
+          "name": "SUNKARA KARTHIK",
+          "constituencyName": "YANAM",
+          "party": "Bahujan Samaj Party",
+          "evmVotes": 89,
+          "postalVotes": 1,
+          "totalVotes": 90
+        },
+        {
+          "name": "N.RANGASAMY",
+          "constituencyName": "YANAM",
+          "party": "All India N.R. Congress",
+          "evmVotes": 16228,
+          "postalVotes": 249,
+          "totalVotes": 16477
+        },
+        {
+          "name": "PEDAPATI RAMESH BABU",
+          "constituencyName": "YANAM",
+          "party": "Amma Makkal Munnettra Kazagam",
+          "evmVotes": 92,
+          "postalVotes": 0,
+          "totalVotes": 92
+        },
+        {
+          "name": "MALLADI UDAYA LAKSHMI",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 53,
+          "postalVotes": 0,
+          "totalVotes": 53
+        },
+        {
+          "name": "DURGAA PRASAAHD PEMMADI",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 93,
+          "postalVotes": 2,
+          "totalVotes": 95
+        },
+        {
+          "name": "GOLUGULA PRABHAVATHI",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 13,
+          "postalVotes": 0,
+          "totalVotes": 13
+        },
+        {
+          "name": "NATI BURIYYA",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 21,
+          "postalVotes": 0,
+          "totalVotes": 21
+        },
+        {
+          "name": "GOLLAPALLI BHARATHI",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 10,
+          "postalVotes": 0,
+          "totalVotes": 10
+        },
+        {
+          "name": "SABBATI LOKESWARA RAO",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 12,
+          "postalVotes": 1,
+          "totalVotes": 13
+        },
+        {
+          "name": "DAVULURY VEERA VRATHA PATHI",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 318,
+          "postalVotes": 2,
+          "totalVotes": 320
+        },
+        {
+          "name": "KALLA VENKATA RATNAM",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 23,
+          "postalVotes": 2,
+          "totalVotes": 25
+        },
+        {
+          "name": "TEKUMUDI VENKATA RAO",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 210,
+          "postalVotes": 0,
+          "totalVotes": 210
+        },
+        {
+          "name": "GOLLAPALLI SRINIVAS ASHOK",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 16874,
+          "postalVotes": 258,
+          "totalVotes": 17132
+        },
+        {
+          "name": "SURIMILLI SUBBA RAO",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 100,
+          "postalVotes": 2,
+          "totalVotes": 102
+        },
+        {
+          "name": "TALATAM SURYA CHANDRA SEKHARA RAO",
+          "constituencyName": "YANAM",
+          "party": "Independent",
+          "evmVotes": 139,
+          "postalVotes": 0,
+          "totalVotes": 139
+        },
+        {
+          "name": "NOTA",
+          "constituencyName": "YANAM",
+          "party": "None of the Above",
+          "evmVotes": 115,
+          "postalVotes": 3,
+          "totalVotes": 118
+        }
+      ]
+    }
+  ]
+}
